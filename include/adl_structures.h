@@ -1,12 +1,9 @@
-///
-///  Copyright (c) 2008 - 2013 Advanced Micro Devices, Inc.
-
-///  THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
-///  EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED
-///  WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
+//
+//  Copyright (c) 2008-2024 Advanced Micro Devices, Inc.
+//
 
 /// \file adl_structures.h
-///\brief This file contains the structure declarations that are used by the public ADL interfaces for \ALL platforms.\n <b>Included in ADL SDK</b>
+/// \brief This file contains the structure declarations that are used by the public ADL interfaces for \ALL platforms.\n <b>Included in ADL SDK</b>
 ///
 /// All data structures used in AMD Display Library (ADL) public interfaces should be defined in this header file.
 ///

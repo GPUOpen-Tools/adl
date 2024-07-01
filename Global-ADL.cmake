@@ -1,4 +1,4 @@
-## Copyright (c) 2018 Advanced Micro Devices, Inc. All rights reserved.
+## Copyright (c) 2018-2024 Advanced Micro Devices, Inc. All rights reserved.
 cmake_minimum_required(VERSION 3.5.1)
 
 ## Define AMD ADL directory
