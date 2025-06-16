@@ -1,5 +1,5 @@
-## Copyright (c) 2018-2024 Advanced Micro Devices, Inc. All rights reserved.
-cmake_minimum_required(VERSION 3.5.1)
+## Copyright (c) 2018-2025 Advanced Micro Devices, Inc. All rights reserved.
+cmake_minimum_required(VERSION 3.10)
 
 ## Define AMD ADL directory
 set(ADL_DIR ${COMMON_DIR}/Lib/AMD/ADL)
